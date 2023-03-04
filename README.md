@@ -1,6 +1,12 @@
 # NCAE-prep
 
 
+# Slack
+
+```
+@Smiley @Randolph E. Stokes   @Zach Oltman   @The BIG GUY   @Dom Zhang   @M1ss_L0ndon   @Peaches 
+```
+
 # Important Linux Commands
 
 Useful Git commands :
